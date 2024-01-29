@@ -1,4 +1,4 @@
-# CSC TM Process Documentation
+# CSC Process Documentation
 
 An attempt to document the specific processes that make the league function.
 
