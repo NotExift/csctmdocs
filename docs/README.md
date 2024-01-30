@@ -2,7 +2,7 @@
 
 An attempt to document the specific processes that make the league function.
 
-##### Current Staff Leads
+### Current Staff Leads
 
 
 | **Committee** | **Name**    |

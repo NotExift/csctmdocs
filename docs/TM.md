@@ -21,7 +21,7 @@ Example of a pinned TM resources message.
 * Waiver Tracker
 * Rolling Tier Lists
 * Keeper Tracker
-* Draft Boards
+* [Draft Boards](/DB.md)
 * Training Slides/Videos
 
 ### Season Overview
