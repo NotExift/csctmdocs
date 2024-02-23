@@ -2,6 +2,8 @@
 
 Information Important to TMs
 
+> *The number #1 most important thing about TM is that diligence is key! Double check, triple check everything you do.*
+
 ## General knowledge
 
 ### TM Resources
