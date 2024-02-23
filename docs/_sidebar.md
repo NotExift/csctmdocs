@@ -1,3 +1,5 @@
 * [Home](README.md )
-* [Transactions](TM.md)
+* [Transactions Overview](TM.md)
+* [Transactions](TM2.md)
+* [Spreadsheets](Sheets.md)
 * [Draft Board](DB.md)
